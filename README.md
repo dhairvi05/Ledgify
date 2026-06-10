@@ -99,3 +99,13 @@ python scripts/stream_generator.py
 ```bash
 streamlit run backend/dashboard.py
 ```
+
+---
+
+## 📱 Screenshots
+
+* A glimpse at my project: 
+
+<img src="assets/clean.png" width="600" />
+
+<img src="assets/not-clean.png" width="600" />
